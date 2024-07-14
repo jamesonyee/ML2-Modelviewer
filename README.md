@@ -19,5 +19,9 @@ At the bottom of the start function assign all game object you defined in the cl
 In the Unity editor click the ML rig in the hierarchy. You will be able to click and drag prefabs from the project outliner into each game object you defined in the script.
 ![image](https://github.com/user-attachments/assets/269f0a4c-2e96-4eea-abb6-1a2d8b1d6d68)
 
+**Building to Magic Leap**
+Power on the Magic leap and plug it into your computer. Navigate to File > Build settings. Ensure that the run device is the Magic Leap (you may need to click refresh).
+Click build and when it's complete the program will automatically start and you can unplug it if you want.
+
 
 
