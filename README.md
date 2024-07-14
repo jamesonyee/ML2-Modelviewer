@@ -23,5 +23,9 @@ In the Unity editor click the ML rig in the hierarchy. You will be able to click
 Power on the Magic leap and plug it into your computer. Navigate to File > Build settings. Ensure that the run device is the Magic Leap (you may need to click refresh).
 Click build and when it's complete the program will automatically start and you can unplug it if you want.
 
+<p><b>Notes</b></p>
+The project currently works with ArUco codes and has not been tested on any other type of marker.
+
+The Magic Leap struggles to detect codes that are smaller than 100mm. You can adjust the expected markerSize in the OnUpdateDetector() function in the script.
 
 
