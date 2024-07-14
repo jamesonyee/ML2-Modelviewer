@@ -16,7 +16,8 @@ To add your own models declare a game object with the name of the model in the m
 At the bottom of the start function assign all game object you defined in the class to a ArUco ID (0-999)
 ![image](https://github.com/user-attachments/assets/dc00a2b7-903a-4691-9e39-102f4ae2ae9f)
 
-In the Unity editor click the ML rig in the hierarchy and you will be able to drag prefabs from the project outliner into each game object you defined in the script.
-![image](https://github.com/user-attachments/assets/16f60c9e-a0fa-4daf-83c4-a5ebdf03a6ca)
+In the Unity editor click the ML rig in the hierarchy. You will be able to click and drag prefabs from the project outliner into each game object you defined in the script.
+![image](https://github.com/user-attachments/assets/269f0a4c-2e96-4eea-abb6-1a2d8b1d6d68)
+
 
 
