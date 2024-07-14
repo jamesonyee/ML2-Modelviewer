@@ -1,4 +1,4 @@
-# ML2-Modelviewer
+![image](https://github.com/user-attachments/assets/b70990c2-46f4-4eb1-8e7a-85cc34d236e0)# ML2-Modelviewer
 
 Augmented Reality construction visualization application for the Magic Leap 2
 
@@ -10,3 +10,7 @@ The marker understanding script in Asset > Scripts is an adaptation of the examp
 ArUco codes can be generated at: https://chev.me/arucogen/  
 
 <b> Adding your own models </b>
+To add your own models declare a game object with the name of the model in 
+
+![image](https://github.com/user-attachments/assets/7273cccb-a70d-48e1-b9c3-8fc0604a9477)
+
