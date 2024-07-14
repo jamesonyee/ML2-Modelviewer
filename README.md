@@ -25,7 +25,6 @@ Click build and when it's complete the program will automatically start and you 
 
 <p><b>Notes</b></p>
 The project currently works with ArUco codes and has not been tested on any other type of marker.
-
 The Magic Leap struggles to detect codes that are smaller than 100mm. You can adjust the expected markerSize in the OnUpdateDetector() function in the script.
 
 
